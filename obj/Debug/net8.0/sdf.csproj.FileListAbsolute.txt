@@ -1,0 +1,14 @@
+C:\Users\Алена\Desktop\sdf\bin\Debug\net8.0\sdf.exe
+C:\Users\Алена\Desktop\sdf\bin\Debug\net8.0\sdf.deps.json
+C:\Users\Алена\Desktop\sdf\bin\Debug\net8.0\sdf.runtimeconfig.json
+C:\Users\Алена\Desktop\sdf\bin\Debug\net8.0\sdf.dll
+C:\Users\Алена\Desktop\sdf\bin\Debug\net8.0\sdf.pdb
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.AssemblyInfoInputs.cache
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.AssemblyInfo.cs
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.csproj.CoreCompileInputs.cache
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.dll
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\refint\sdf.dll
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.pdb
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\sdf.genruntimeconfig.cache
+C:\Users\Алена\Desktop\sdf\obj\Debug\net8.0\ref\sdf.dll
